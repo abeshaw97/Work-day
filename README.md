@@ -26,6 +26,6 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-//img link goes here//
+
 
 https://abeshaw97.github.io/Work-day/

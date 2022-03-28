@@ -25,7 +25,7 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
-src="https://user-images.githubusercontent.com/94322760/160308348-9ed125af-6b47-4dc6-86dd-87148db7d71c.png">
+![alt text]("https://user-images.githubusercontent.com/94322760/160308348-9ed125af-6b47-4dc6-86dd-87148db7d71c.png")
 
 
 https://abeshaw97.github.io/Work-day/
